@@ -1,0 +1,10 @@
+19:45:08 **** Build of configuration Debug for project 6_Uart_tx_printf ****
+make -j12 all 
+arm-none-eabi-size  6_Uart_tx_printf.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5084	     92	   1900	   7076	   1ba4	6_Uart_tx_printf.elf
+Finished building: default.size.stdout
+ 
+
+19:45:08 Build Finished. 0 errors, 0 warnings. (took 339ms)
+

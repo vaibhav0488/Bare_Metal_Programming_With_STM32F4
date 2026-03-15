@@ -1,0 +1,10 @@
+19:45:02 **** Build of configuration Debug for project 14_Input_Capture_Driver ****
+make -j12 all 
+arm-none-eabi-size  14_Input_Capture_Driver.elf 
+   text	   data	    bss	    dec	    hex	filename
+    972	      0	   1568	   2540	    9ec	14_Input_Capture_Driver.elf
+Finished building: default.size.stdout
+ 
+
+19:45:02 Build Finished. 0 errors, 0 warnings. (took 272ms)
+

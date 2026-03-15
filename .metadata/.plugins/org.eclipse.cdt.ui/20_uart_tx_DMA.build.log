@@ -1,0 +1,10 @@
+19:45:04 **** Incremental Build of configuration Debug for project 20_uart_tx_DMA ****
+make -j12 all 
+arm-none-eabi-size  20_uart_tx_DMA.elf 
+   text	   data	    bss	    dec	    hex	filename
+   1392	      0	   1568	   2960	    b90	20_uart_tx_DMA.elf
+Finished building: default.size.stdout
+ 
+
+19:45:04 Build Finished. 0 errors, 0 warnings. (took 276ms)
+

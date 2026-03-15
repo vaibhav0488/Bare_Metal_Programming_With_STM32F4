@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;7_uart_modular&apos; to &apos;6_uart_printf&apos;" description="Rename resource &apos;7_uart_modular&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/7_uart_modular" name="6_uart_printf" stamp="1763825183895" updateReferences="true"/>
+</session>

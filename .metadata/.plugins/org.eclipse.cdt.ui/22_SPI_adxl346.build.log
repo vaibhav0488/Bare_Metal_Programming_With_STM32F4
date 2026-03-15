@@ -1,0 +1,10 @@
+16:46:46 **** Incremental Build of configuration Debug for project 22_SPI_adxl346 ****
+make -j12 all 
+arm-none-eabi-size  22_SPI_adxl346.elf 
+   text	   data	    bss	    dec	    hex	filename
+   3236	      8	   1608	   4852	   12f4	22_SPI_adxl346.elf
+Finished building: default.size.stdout
+ 
+
+16:46:46 Build Finished. 0 errors, 0 warnings. (took 211ms)
+
